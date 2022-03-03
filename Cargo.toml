@@ -1,0 +1,10 @@
+[package]
+name = "ars"
+version = "0.0.1"
+edition = "2021"
+authors = ["clearloop <clearloop@users.noreply.github.com>"]
+description = "Arweave interface for rust applications"
+repository = "https://github.com/clearloop/ars"
+keywords = [ "Arweave" ]
+readme = "README.md"
+license = "GPL-3.0"
